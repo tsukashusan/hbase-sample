@@ -11,6 +11,6 @@ sbt assembly
 
 ## Example
 
-java -jar Hello-assembly-0.1.0-SNAPSHOT.jar <FQDN of quorum> ...
+java -jar Hello-assembly-0.1.0-SNAPSHOT.jar "FQDN of quorum1" ...
 
 
