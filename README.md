@@ -1,4 +1,4 @@
-# This is hbase sample source.
+# This is HBase sample source.
 
 ## required
 * Java8
